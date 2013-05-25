@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Michael/dev/sysops-build'
+let g:netrw_dirhist_2='/Users/Michael/Documents/dev/vagrant/buildbox'
+let g:netrw_dirhist_3='/Applications/SimCity 4 Deluxe.app'
+let g:netrw_dirhist_4='/Users/Michael/Documents/dev/fireadm'
+let g:netrw_dirhist_5='/Users/Michael/.berkshelf/cookbooks/users2-455ee57dd66f5982d8556a816d8c0b781e5ff1b8'
+let g:netrw_dirhist_6='/Users/Michael/Documents/cloudysunday/chef/cookbooks/logstash'
+let g:netrw_dirhist_7='/Users/Michael/dev/chef-ng'
+let g:netrw_dirhist_8='/Users/Michael/.rbenv/versions/2.0.0-p0/lib/ruby/gems/2.0.0/gems/chef-10.26.0'
